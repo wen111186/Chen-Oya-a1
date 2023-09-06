@@ -1,2 +1,2 @@
-# Chen-a1
+# Wen Chen
 SURV727_Assignment 1
